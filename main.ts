@@ -9,6 +9,7 @@ import * as _ from 'lodash';
  * passing functions can be a jump
  * take inspiration from our exercise
  * use reverse that it should mess it up!
+ * use second order functions
  */
 
 function main() {
