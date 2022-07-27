@@ -1,0 +1,18 @@
+{
+  "extends": "@tsconfig/node12/tsconfig.json",
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": false,
+    "esModuleInterop": false,
+    "outDir": "./dist",
+    "rootDir": ".",
+    "sourceMap": true,
+    "resolveJsonModule": true,
+    "noUnusedLocals": true,
+    "noUncheckedIndexedAccess": true,
+  },
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}
