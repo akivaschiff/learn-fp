@@ -26,8 +26,6 @@
     "@typescript-eslint/parser": "5.17.0",
     "eslint": "7.32.0",
     "eslint-config-airbnb-base": "15.0.0",
-    "eslint-config-riseup": "git+ssh://git@github.com/riseupil/eslint-config-riseup.git#19.11.0",
-    "eslint-config-riseup-ci": "git+ssh://git@github.com/riseupil/eslint-config-riseup-ci.git#19.8.0",
     "eslint-plugin-import": "2.25.4",
     "jest": "27.0.6",
     "jest-junit": "3.6.0",
